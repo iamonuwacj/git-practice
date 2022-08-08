@@ -2,4 +2,4 @@ def add(a,b):{
     print(a+b)
 }
 
-add(5,4)
+add(7,4)
